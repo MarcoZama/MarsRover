@@ -3,17 +3,6 @@ Kata develop in c# with netcore and Nunit 3
 
 I assume that the planet is a cartesian graph like this.
 It has max length pointed to 10
-
-|
-|
-|
-|__ __ __ __ 
-
-I also assume that the cardinal direction are theese:
-    n
-w   +   e
-    s
-
 The initial point of rover is 0,0 and its facing to N
 I implement the api for receive the string commands. String is a array of char. 
 After this, i use a foreach for scan the string array of command.

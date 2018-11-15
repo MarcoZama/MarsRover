@@ -1,0 +1,9 @@
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\bin\Debug\netstandard2.0\MarsRoverKata.deps.json
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\bin\Debug\netstandard2.0\MarsRoverKata.dll
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\bin\Debug\netstandard2.0\MarsRoverKata.pdb
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\obj\Debug\netstandard2.0\MarsRoverKata.csprojAssemblyReference.cache
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\obj\Debug\netstandard2.0\MarsRoverKata.csproj.CoreCompileInputs.cache
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\obj\Debug\netstandard2.0\MarsRoverKata.AssemblyInfoInputs.cache
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\obj\Debug\netstandard2.0\MarsRoverKata.AssemblyInfo.cs
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\obj\Debug\netstandard2.0\MarsRoverKata.dll
+C:\Users\Zama\Source\repos\MarsRover\MarsRover\MarsRoverKata\obj\Debug\netstandard2.0\MarsRoverKata.pdb
